@@ -1,6 +1,6 @@
 # TicTacToe
 
-  Download the repository by running following command (if u have git installed) in Console(or terminal) or download the zip and unzip it.
+  Download the repository by running command below (if u have git installed) in Console(or terminal) or download the zip and unzip it.
   ```
   git clone https://github.com/bharath-gowda-571/TicTacToe.git
   ```
