@@ -8,7 +8,7 @@
    There is a `TicTacToe.exe` file in `build\TicTacToe` folder run it and enjoy the game.
   
   ### If you want to run game from script
-   You should have `pygame` module installed. If it is not run the following command:
+   You should have `pygame` module installed. If it is not installed run the following command:
    ```
    pip install pygame
    ```
